@@ -1,0 +1,95 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "619c04f1-d356-4363-8076-d72f7ce75a13": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21393213423910__619c04f1-d356-4363-8076-d72f7ce75a13-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>会社概要<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--21393213423910__619c04f1-d356-4363-8076-d72f7ce75a13-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "0bb3e479-1893-4c10-9d53-88ae5e3621e2": {
+      "type": "company",
+      "blocks": {
+        "template--21393213423910__0bb3e479-1893-4c10-9d53-88ae5e3621e2-table-1": {
+          "type": "table",
+          "settings": {
+            "th": "会社名",
+            "td": "<p>内容<\/p>"
+          }
+        },
+        "8035700a-d056-4d01-84ad-f8decde66069": {
+          "type": "table",
+          "settings": {
+            "th": "所在地",
+            "td": "<p>内容<\/p>"
+          }
+        },
+        "b31e9384-88fa-46dd-9f91-16752d6ced12": {
+          "type": "table",
+          "settings": {
+            "th": "電話番号",
+            "td": "<p>内容<\/p>"
+          }
+        },
+        "af202f90-9dd3-4141-b930-025df090e6b2": {
+          "type": "table",
+          "settings": {
+            "th": "メールアドレス",
+            "td": "<p>内容<\/p>"
+          }
+        },
+        "3b7c80a2-cff3-4dfe-b6bc-7fbfdd00244a": {
+          "type": "table",
+          "settings": {
+            "th": "取扱商品",
+            "td": "<p>内容<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21393213423910__0bb3e479-1893-4c10-9d53-88ae5e3621e2-table-1",
+        "8035700a-d056-4d01-84ad-f8decde66069",
+        "b31e9384-88fa-46dd-9f91-16752d6ced12",
+        "af202f90-9dd3-4141-b930-025df090e6b2",
+        "3b7c80a2-cff3-4dfe-b6bc-7fbfdd00244a"
+      ],
+      "settings": {
+        "page-width": 1000,
+        "td_width": 70,
+        "pc_margin_top": 10,
+        "pc_margin_buttom": 10,
+        "sp_margin_top": 10,
+        "sp_margin_buttom": 10
+      }
+    }
+  },
+  "order": [
+    "main",
+    "619c04f1-d356-4363-8076-d72f7ce75a13",
+    "0bb3e479-1893-4c10-9d53-88ae5e3621e2"
+  ]
+}
